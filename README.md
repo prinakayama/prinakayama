@@ -1,22 +1,21 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi+me+chamo+Priscila+Nakayama!;Desenvolvedora+e+Analista+de+Dados;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+I'm+Priscila+Nakayama!;Developer+and+Data+Analyst;)](https://git.io/typing-svg)
 
-#### Portfólio dos projetos pessoais e cursados
-#### Estou desenvolvendo algumas soluções de negocios e gostaria de compartilhar minha jornada
+#### Portfolio about my professional experiences and education 
+
 
 👩‍💻 Pri Nakayama
-- 👩‍👧‍👦 Sou fiha, mãe, aprendiz da vida e ambivertida
-- 💻 Formada em ADS (atualmente cursando atualizações na área de Dados)
-- 🗺️Amo viajar e natureza, mas também amo a paz de ficar em casa
-
+- 👩‍👧‍👦 I'm daughter, mom of two kids, ambivert and life's kid
+- 💻 Graduate in ASD (analysis and systems development), now I'm down to courses about Data
+- 🗺️ I love travel and nature, but also I love stay at home 
 🤝 Conecte-se comigo! 
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/priscila-nakayama/) &nbsp;
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=&color:FFF)](https://www.instagram.com/itspriscilv/) &nbsp;
 
-### 🗄️ Banco de Dados e Hospedagem em Nuvem
+### 🗄️ Database
 
 <p>
     <a href="#"><img alt="Microsoft Azure" src="https://docs.databricks.com/pt/_static/small-scale-lockup-full-color-rgb.svg?logo=databricks&logoColor=white"width="95" height="21"></a>
@@ -28,7 +27,7 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-### 💻 Software e Ferramentas
+### 💻 Software and tools
 
 <p>
     <a href="#"><img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps-742774?logo=powerapps&logoColor=white"></a>
