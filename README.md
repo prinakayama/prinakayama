@@ -10,8 +10,8 @@
 <h3 align="left">Vamos nos conectar! </h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/priscila-nakayama/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logo=instagram)](https://www.instagram.com/itspriscilv/)
-[![Discord(https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/channels/@purinkym)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/itspriscilv/)
+
 
 <h3 align="left">GitHub Stats</h3>
 
