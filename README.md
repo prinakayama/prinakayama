@@ -3,10 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi+me+chamo+Priscila+Nakayama!;Desenvolvedora+e+Analista+de+Dados;)](https://git.io/typing-svg)
 
-#### Portfólio dos projetos pessoais e dos cursos 
+#### Portfólio dos projetos pessoais e cursados
 #### Estou desenvolvendo algumas soluções de negocios e gostaria de compartilhar minha jornada
 
-👩‍💻_Pri Nakayama_..
+👩‍💻 Pri Nakayama
 - 👩‍👧‍👦 Sou fiha, mãe, aprendiz da vida e ambivertida
 - 💻 Formada em ADS (atualmente cursando atualizações na área de Dados)
 - 🗺️Amo viajar e natureza, mas também amo a paz de ficar em casa
