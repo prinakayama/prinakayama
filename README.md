@@ -20,7 +20,7 @@
 <br>
 
 <h3 align="left"> Contribuições </h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prinakayama&theme=bear&background=282a36&border=ff79c6&dates=50fa7b)](https://git.io/streak-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=prinakayama&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/prinakayama/dio-lab-open-source)
  
   <div align="right">Made with💟 by <a href="https://github.com/prinakayama">PRI</a>.</div>
 
