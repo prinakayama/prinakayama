@@ -9,8 +9,10 @@
 👩‍💻 Pri Nakayama
 - 👩‍👧‍👦 I'm daughter, mom of two kids, ambivert and life's kid
 - 💻 Graduate in ASD (analysis and systems development), now I'm down to courses about Data
-- 🗺️ I love travel and nature, but also I love stay at home 
-🤝 Conecte-se comigo! 
+- 🗺️ I love travel and nature, but also I love stay at home
+
+
+🤝 Let's connect! 
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/priscila-nakayama/) &nbsp;
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=&color:FFF)](https://www.instagram.com/itspriscilv/) &nbsp;
