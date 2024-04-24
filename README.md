@@ -1,27 +1,25 @@
 
-<h1>
-    <span>Priscila Nakayama</span>
-</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<p align="justify">Mãe, filha, aprendiz, analista de dados e desenvolvedora. 
-<br>
- Apaixonada por tech e por natureza. Sou ambivertida!! </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Be+Welcome.;+Oi+me+chamo+Priscila+Nakayama!;Sou+filha,+mãe,+aprendiz,+Desenvolvedora+e+Analista+de+Dados.;Vamos+nos+conectar!!!;)](https://git.io/typing-svg)
 
-<h3 align="left">Vamos nos conectar! </h3>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-nakayama/) &nbsp;
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=&color:FFF)](https://www.instagram.com/itspriscilv/) &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/priscila-nakayama/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/itspriscilv/)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=prinakayama&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="prinakayama github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinakayama&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prinakayama&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>&nbsp;
 
 
-<h3 align="left">GitHub Stats</h3>
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prinakayama&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prinakayama&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
-<br>
-
-<h3 align="left"> Contribuições </h3>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=prinakayama&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/prinakayama/dio-lab-open-source)
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrumoSprint}/count.svg" /></p> 
+<br></div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>&nbsp;
  
-  <div align="right">Made with💟 by <a href="https://github.com/prinakayama">PRI</a>.</div>
-
-</details>
+  <div align="right">Made with💟 by <a href="https://github.com/prinakayama">PRI</a>.</div> 
