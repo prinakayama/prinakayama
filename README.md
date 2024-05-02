@@ -53,6 +53,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{prinakayama}/count.svg" /></p> 
 <br></div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed394e&height=120&section=footer"/>&nbsp;
  
   <div align="right">Made with💟 by <a href="https://github.com/prinakayama">PRI</a>.</div> 
