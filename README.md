@@ -41,6 +41,7 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black"></a>
     <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-276DC3.svg?logo=rstudio&logoColor=white"></a>
+    <a href="#"><img></a>
 </p>
 
 <div align="center">  
