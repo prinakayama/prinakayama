@@ -57,6 +57,8 @@
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=TensorFlow&logoColor=white&labelColor=%23FF6F00"></a>
     <a href="#"><img alt="Numba" src="https://img.shields.io/badge/Numba-%2300A3E0?logo=Numba&logoColor=white&labelColor=%2300A3E0"></a>
     <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458?logo=pandas&logoColor=white&labelColor=%23150458"></a>
+    <a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-black?logo=Kaggle&logoColor=%2320BEFF"></a>
+
     
 
 
